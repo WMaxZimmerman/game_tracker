@@ -1,56 +1,58 @@
-| Character             | Exp |
-|-----------------------+-----|
-| Zot                   |   1 |
-| Fiona                 |   1 |
-| Gerki                 |   1 |
-| Dierdre               |   1 |
-|-----------------------+-----|
-| Fleck                 |   2 |
-| Gog                   |   2 |
-| Dimli                 |   2 |
-| Eve                   |   2 |
-|-----------------------+-----|
-| Wizgille              |   3 |
-| Phrenk                |   3 |
-| Serena                |   3 |
-| Kaylin                |   3 |
-|-----------------------+-----|
-| Captain Whitehawk     |   4 |
-| Remy                  |   4 |
-| Bryn                  |   4 |
-| Tara                  |   4 |
-|-----------------------+-----|
-| Sera                  |   5 |
-| Lizwick               |   5 |
-| Joran                 |   5 |
-| Zakhan                |   5 |
-|-----------------------+-----|
-| Daareka               |   6 |
-| Baron von Vlazlo      |   6 |
-| Amundyr               |   6 |
-| Torglesnarf Duncleton |   6 |
-|-----------------------+-----|
-| The Wench             |   7 |
-| Jasper                |   7 |
-| Molly                 |   7 |
-| Warthorn              |   7 |
-|-----------------------+-----|
-| Wrench                |  SO |
-| Pooky                 |  SO |
-| Erin                  |  SO |
-| Cormac                |  SO |
-| Natyli                |  SO |
-| Ozrik                 |  SO |
-| Brother Bastian       |  SO |
-| Zariah                |  SO |
-| Halden                |  SO |
-|-----------------------+-----|
-| Keet                  |  SO |
-| Nitrel                |  SO |
-|-----------------------+-----|
-| Adonis                |  SO |
-| Lich King             |  SO |
-|-----------------------+-----|
-| Spyke                 |  SO |
-| Flower                |  SO |
+*SA - Stand Alone 
+
+| Character                                | Exp |
+|------------------------------------------+-----|
+| Zot the Wizard                           |   1 |
+| Fiona the Volatile                       |   1 |
+| Gerki the Sneak                          |   1 |
+| Dierdre the Priestess                    |   1 |
+|------------------------------------------+-----|
+| Fleck the Bard                           |   2 |
+| Gog the Half-Ogre                        |   2 |
+| Dimli the Dwarf                          |   2 |
+| Eve the Illusionist                      |   2 |
+|------------------------------------------+-----|
+| Wizgille the Tinkerer                    |   3 |
+| Brewmaster Phrenk                        |   3 |
+| Serena the Pious                         |   3 |
+| Kaylin the Renegade                      |   3 |
+|------------------------------------------+-----|
+| Captain Whitehawk                        |   4 |
+| First Mate Remy                          |   4 |
+| Bryn the Boatswain                       |   4 |
+| Tara the Navigator                       |   4 |
+|------------------------------------------+-----|
+| Sera the Fleetfooted                     |   5 |
+| Lizwick the Collector                    |   5 |
+| Joran the Trickster                      |   5 |
+| Zakhan the Drunken Master                |   5 |
+|------------------------------------------+-----|
+| Daareka the Mindbreaker                  |   6 |
+| Baron von Vlazlo                         |   6 |
+| Amundyr the Cursed                       |   6 |
+| Torglesnarf Duncleton, First of His Name |   6 |
+|------------------------------------------+-----|
+| The Wench!                               |   7 |
+| Jasper the Bouncer                       |   7 |
+| Molly the Stablehand                     |   7 |
+| Warthorn Redbeard                        |   7 |
+|------------------------------------------+-----|
+| Wrench                                   |  SA |
+| Pooky                                    |  SA |
+| Erin the Ever-changing                   |  SA |
+| Cormac the Mighty                        |  SA |
+| Witchdoctor Natyli                       |  SA |
+| Ozrik the Adept                          |  SA |
+| Brother Bastian                          |  SA |
+| Zariah the Summoner                      |  SA |
+| Halden the Unhinged                      |  SA |
+|------------------------------------------+-----|
+| Keet                                     | K&N |
+| Nitrel                                   | K&N |
+|------------------------------------------+-----|
+| The Magnificent Adonis, Bard of the Ages | AvL |
+| The Lich King                            | AvL |
+|------------------------------------------+-----|
+| Spyke                                    | S&F |
+| Flower                                   | S&F |
 
