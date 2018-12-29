@@ -17,9 +17,9 @@
 *** Brother Bastian
 *** Zariah the Summoner
 *** Halden the Unhinged
-*** Keet and Nitrel
-*** Adonis vs The Lich
-*** Spyke and Flower
+*** [[file:keet_and_nitrel.org][Keet and Nitrel]]
+*** [[file:adonis_vs_lich.org][Adonis vs The Lich]]
+*** [[file:sypke_and_flower.org][Spyke and Flower]]
 ** Misc
-*** Gambling? I'm in!
-*** Guide to Inns and Taverns
+*** [[file:gambling_im_in.org][Gambling? I'm in!]]
+*** [[file:guide_to_inns_and_taverns.org][Guide to Inns and Taverns]]
