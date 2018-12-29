@@ -1,10 +1,10 @@
 * List
 | Character                                | Exp |
 |------------------------------------------+-----|
-| Zot the Wizard                           |   1 |
-| Fiona the Volatile                       |   1 |
-| Gerki the Sneak                          |   1 |
-| Dierdre the Priestess                    |   1 |
+| [[file:zot.org][Zot the Wizard]]                           |   1 |
+| [[file:fiona.org][Fiona the Volatile]]                       |   1 |
+| [[file:gerki.org][Gerki the Sneak]]                          |   1 |
+| [[file:deirdre.org][Deirdre the Priestess]]                    |   1 |
 |------------------------------------------+-----|
 | Fleck the Bard                           |   2 |
 | Gog the Half-Ogre                        |   2 |
