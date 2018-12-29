@@ -1,5 +1,4 @@
-*SA - Stand Alone 
-
+* List
 | Character                                | Exp |
 |------------------------------------------+-----|
 | Zot the Wizard                           |   1 |
@@ -56,3 +55,6 @@
 | Spyke                                    | S&F |
 | Flower                                   | S&F |
 
+** Key
+*** *SA - Stand Alone*
+* [[file:stats.org][Stats]]
