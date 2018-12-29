@@ -1,2 +1,5 @@
 # game_tracker
 A repository to track stats and other resources for board games
+
+* Games
+** [[file:red_dragon_inn/][Red Dragon Inn]]
