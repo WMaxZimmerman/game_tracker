@@ -8,9 +8,9 @@
 *** [[file:six.org][Six]]
 *** [[file:seven.org][Seven]]
 ** Stand Alones
-*** Wrench
-*** Pooky
-*** Erin the Ever-changing
+*** [[file:wrench.org][Wrench]]
+*** [[file:pooky.org][Pooky]]
+*** [[file:erin_the_everchanging.org][Erin the Ever-changing]]
 *** Cormac the Mighty
 *** Witchdoctor Natyli
 *** Ozrik the Adept
