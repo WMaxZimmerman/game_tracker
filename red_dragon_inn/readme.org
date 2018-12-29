@@ -1,0 +1,6 @@
+*Red Dragon Inn*
+
+* Expansions
+** Drinks
+* [[file:characters/][Characters]]
+** [[file:characters/stats.org][Stats]]
