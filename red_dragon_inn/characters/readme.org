@@ -1,0 +1,56 @@
+| Character             | Exp |
+|-----------------------+-----|
+| Zot                   |   1 |
+| Fiona                 |   1 |
+| Gerki                 |   1 |
+| Dierdre               |   1 |
+|-----------------------+-----|
+| Fleck                 |   2 |
+| Gog                   |   2 |
+| Dimli                 |   2 |
+| Eve                   |   2 |
+|-----------------------+-----|
+| Wizgille              |   3 |
+| Phrenk                |   3 |
+| Serena                |   3 |
+| Kaylin                |   3 |
+|-----------------------+-----|
+| Captain Whitehawk     |   4 |
+| Remy                  |   4 |
+| Bryn                  |   4 |
+| Tara                  |   4 |
+|-----------------------+-----|
+| Sera                  |   5 |
+| Lizwick               |   5 |
+| Joran                 |   5 |
+| Zakhan                |   5 |
+|-----------------------+-----|
+| Daareka               |   6 |
+| Baron von Vlazlo      |   6 |
+| Amundyr               |   6 |
+| Torglesnarf Duncleton |   6 |
+|-----------------------+-----|
+| The Wench             |   7 |
+| Jasper                |   7 |
+| Molly                 |   7 |
+| Warthorn              |   7 |
+|-----------------------+-----|
+| Wrench                |  SO |
+| Pooky                 |  SO |
+| Erin                  |  SO |
+| Cormac                |  SO |
+| Natyli                |  SO |
+| Ozrik                 |  SO |
+| Brother Bastian       |  SO |
+| Zariah                |  SO |
+| Halden                |  SO |
+|-----------------------+-----|
+| Keet                  |  SO |
+| Nitrel                |  SO |
+|-----------------------+-----|
+| Adonis                |  SO |
+| Lich King             |  SO |
+|-----------------------+-----|
+| Spyke                 |  SO |
+| Flower                |  SO |
+

@@ -1,0 +1,46 @@
+| Character             | 1v1 | 3s | 4s | 5s | 6s | 7s | 2v2 |
+|-----------------------+-----+----+----+----+----+----+-----|
+| Zot                   |     |    |    |    |    |    |     |
+| Fiona                 |     |    |    |    |    |    |     |
+| Gerki                 |     |    |    |    |    |    |     |
+| Dierdre               |     |    |    |    |    |    |     |
+| Fleck                 |     |    |    |    |    |    |     |
+| Gog                   |     |    |    |    |    |    |     |
+| Dimli                 |     |    |    |    |    |    |     |
+| Eve                   |     |    |    |    |    |    |     |
+| Wizgille              |     |    |    |    |    |    |     |
+| Phrenk                |     |    |    |    |    |    |     |
+| Serena                |     |    |    |    |    |    |     |
+| Kaylin                |     |    |    |    |    |    |     |
+| Captain Whitehawk     |     |    |    |    |    |    |     |
+| Remy                  |     |    |    |    |    |    |     |
+| Bryn                  |     |    |    |    |    |    |     |
+| Tara                  |     |    |    |    |    |    |     |
+| Sera                  |     |    |    |    |    |    |     |
+| Lizwick               |     |    |    |    |    |    |     |
+| Joran                 |     |    |    |    |    |    |     |
+| Zakhan                |     |    |    |    |    |    |     |
+| Daareka               |     |    |    |    |    |    |     |
+| Baron von Vlazlo      |     |    |    |    |    |    |     |
+| Amundyr               |     |    |    |    |    |    |     |
+| Torglesnarf Duncleton |     |    |    |    |    |    |     |
+| The Wench             |     |    |    |    |    |    |     |
+| Jasper                |     |    |    |    |    |    |     |
+| Molly                 |     |    |    |    |    |    |     |
+| Warthorn              |     |    |    |    |    |    |     |
+| Wrench                |     |    |    |    |    |    |     |
+| Pooky                 |     |    |    |    |    |    |     |
+| Erin                  |     |    |    |    |    |    |     |
+| Cormac                |     |    |    |    |    |    |     |
+| Natyli                |     |    |    |    |    |    |     |
+| Ozrik                 |     |    |    |    |    |    |     |
+| Brother Bastian       |     |    |    |    |    |    |     |
+| Zariah                |     |    |    |    |    |    |     |
+| Halden                |     |    |    |    |    |    |     |
+| Keet                  |     |    |    |    |    |    |     |
+| Nitrel                |     |    |    |    |    |    |     |
+| Adonis                |     |    |    |    |    |    |     |
+| Lich King             |     |    |    |    |    |    |     |
+| Spyke                 |     |    |    |    |    |    |     |
+| Flower                |     |    |    |    |    |    |     |
+
